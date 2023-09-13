@@ -36,3 +36,12 @@ Git is not the same as GitHub.
 GitHub makes tools that use Git.
 GitHub is the largest host of source code in the world, and has been owned by Microsoft since 2018.
 In this tutorial, we will focus on using Git with GitHub.
+
+Differences between Git and GitHub
+Git is a version control system that manages and keeps track of your code. GitHub, on the other hand, is a service that let you host, share, and manage your code files on the internet.
+
+GitHub uses Git underneath, and lets you manage your Git repositories or folders easily on its platform.
+
+So Git is the actual version control system and GitHub is the platform where you host your code.
+
+If you want to learn more about the differences between these two tools, you can read this tutorial.
